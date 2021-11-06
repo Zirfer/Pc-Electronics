@@ -14,14 +14,14 @@ const Navigation = () => {
                         <Nav.Link as={Link} to="/Pc-Electronics/">Home</Nav.Link>
                         <Nav.Link as={Link} to="/Pc-Electronics/">Administrador</Nav.Link>
                         <NavDropdown title="Inventario" id="collasible-nav-dropdown">
-                            <NavDropdown.Item as={Link} to="/products/create">Ingresar producto</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/products/update">Actualizar producto</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/products/delete">Eliminar producto</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/products/get">Consultar producto</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/products/create">Ingresar producto</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/products/update">Actualizar producto</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/products/delete">Eliminar producto</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/products/get">Consultar producto</NavDropdown.Item>
                         </NavDropdown>
                         <NavDropdown title="Utilidades" id="collasible-nav-dropdown">
-                            <NavDropdown.Item as={Link} to="/utils/data">Calculadora de datos</NavDropdown.Item>
-                            <NavDropdown.Item as={Link} to="/utils/value">Calculadora de valor</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/utils/data">Calculadora de datos</NavDropdown.Item>
+                            <NavDropdown.Item as={Link} to="/Pc-Electronics/utils/value">Calculadora de valor</NavDropdown.Item>
                         </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
