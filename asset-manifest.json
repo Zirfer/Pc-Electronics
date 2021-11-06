@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pc-Electronics/static/css/main.44bfeefc.chunk.css",
+    "main.js": "/Pc-Electronics/static/js/main.2191092f.chunk.js",
+    "main.js.map": "/Pc-Electronics/static/js/main.2191092f.chunk.js.map",
+    "runtime-main.js": "/Pc-Electronics/static/js/runtime-main.df9f3c25.js",
+    "runtime-main.js.map": "/Pc-Electronics/static/js/runtime-main.df9f3c25.js.map",
+    "static/css/2.383c0125.chunk.css": "/Pc-Electronics/static/css/2.383c0125.chunk.css",
+    "static/js/2.7fb5505f.chunk.js": "/Pc-Electronics/static/js/2.7fb5505f.chunk.js",
+    "static/js/2.7fb5505f.chunk.js.map": "/Pc-Electronics/static/js/2.7fb5505f.chunk.js.map",
+    "static/js/3.c3c883d3.chunk.js": "/Pc-Electronics/static/js/3.c3c883d3.chunk.js",
+    "static/js/3.c3c883d3.chunk.js.map": "/Pc-Electronics/static/js/3.c3c883d3.chunk.js.map",
+    "index.html": "/Pc-Electronics/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Pc-Electronics/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.44bfeefc.chunk.css.map": "/Pc-Electronics/static/css/main.44bfeefc.chunk.css.map",
+    "static/js/2.7fb5505f.chunk.js.LICENSE.txt": "/Pc-Electronics/static/js/2.7fb5505f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df9f3c25.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.7fb5505f.chunk.js",
+    "static/css/main.44bfeefc.chunk.css",
+    "static/js/main.2191092f.chunk.js"
+  ]
+}
