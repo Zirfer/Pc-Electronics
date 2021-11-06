@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pc-Electronics/static/css/main.44bfeefc.chunk.css",
-    "main.js": "/Pc-Electronics/static/js/main.c3153c63.chunk.js",
-    "main.js.map": "/Pc-Electronics/static/js/main.c3153c63.chunk.js.map",
+    "main.js": "/Pc-Electronics/static/js/main.870931e6.chunk.js",
+    "main.js.map": "/Pc-Electronics/static/js/main.870931e6.chunk.js.map",
     "runtime-main.js": "/Pc-Electronics/static/js/runtime-main.df9f3c25.js",
     "runtime-main.js.map": "/Pc-Electronics/static/js/runtime-main.df9f3c25.js.map",
     "static/css/2.383c0125.chunk.css": "/Pc-Electronics/static/css/2.383c0125.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.7fb5505f.chunk.js",
     "static/css/main.44bfeefc.chunk.css",
-    "static/js/main.c3153c63.chunk.js"
+    "static/js/main.870931e6.chunk.js"
   ]
 }
