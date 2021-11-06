@@ -7,6 +7,35 @@
   pointer-events: none;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-control{
+  display: inline-block;
+  width: auto;
+}
+
+.btn{
+  margin: 0px 2px 0px 2px;
+}
+
+::placeholder{
+  text-align: right;
+}
+
+input{
+  text-align: right;
+  margin: 0px 5px 0px 5px;
+}
+
+.clr {
+  height: 5px;
+  clear: both;
+  }
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
